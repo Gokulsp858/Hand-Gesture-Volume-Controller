@@ -8,7 +8,8 @@ This project uses your webcam to detect your hand and adjust the volume by measu
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-enabled-green?style=flat-square&logo=opencv)]
 [![Mediapipe](https://img.shields.io/badge/Mediapipe-Hands-orange?style=flat-square&logo=google)]
-
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://clinquant-sfogliatella-964b54.netlify.app)
+Control your system's audio volume using hand gestures in real-time!
 ---
 
 ## 🎯 Features
@@ -70,9 +71,5 @@ comtypes
 numpy
 
 
-# 🖐️ Hand Gesture Volume Controller
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://clinquant-sfogliatella-964b54.netlify.app)
-
-Control your system volume using pinch gestures captured via webcam.
 
