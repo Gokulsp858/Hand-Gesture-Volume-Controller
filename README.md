@@ -68,3 +68,11 @@ mediapipe
 pycaw
 comtypes
 numpy
+
+
+# 🖐️ Hand Gesture Volume Controller
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://clinquant-sfogliatella-964b54.netlify.app)
+
+Control your system volume using pinch gestures captured via webcam.
+
